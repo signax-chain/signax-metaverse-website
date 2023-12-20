@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "signax-db"
+  },
+  "targets": {
+    "signax-db": {
+      "hosting": {
+        "igic": [
+          "igic-meta"
+        ],
+        "gov": [
+          "signax-near-metaverse"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
